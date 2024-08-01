@@ -9,7 +9,20 @@
 
 The objective of this project is to analyze and visualize the nutritional content of various Starbucks beverages using Power BI. The goal is to provide insightful and visually appealing representations of key nutritional metrics, enabling better understanding and healthier choices for consumers. This project is part of the Onyx Data Challenge from January 2023.
 
+#
 
+## Dashboard Overview Look:
+### Page One:
+
+![Screenshot 2024-07-30 160822](https://github.com/user-attachments/assets/6cee16bd-a71e-4594-8cb3-f3b1a9d0741c)
+
+### Page Two:
+![Screenshot 2024-07-30 160838](https://github.com/user-attachments/assets/614165ef-74d7-4660-94ff-2a9c2f938216)
+
+### Page Three:
+![Screenshot 2024-07-30 160854](https://github.com/user-attachments/assets/6066a332-7e52-4dd8-9e75-0e2797e9f8ee)
+
+#
 
 ## About the Dataset
 ![Screenshot 2024-07-30 152648](https://github.com/user-attachments/assets/97b0318d-7bab-49bd-ba53-ca679178a611)
